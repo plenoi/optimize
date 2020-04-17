@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr 16 08:31:07 2020
-
-@author: logistics
+Modify from
+https://github.com/7ossam81/EvoloPy
+https://www.scitepress.org/Papers/2016/60482/60482.pdf
 """
 ############# Minimize #################
 import random
