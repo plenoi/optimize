@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Modify from
+Aj. Plenoi as CAMT CMU
+Modified from
 https://github.com/7ossam81/EvoloPy
 https://www.scitepress.org/Papers/2016/60482/60482.pdf
 """
